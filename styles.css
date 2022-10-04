@@ -34,3 +34,11 @@
   left: calc(50% - 4px);
   background-color: #615e5e;
 }
+
+.coffee-header__button-one {
+  left: 15px;
+}
+.coffee-header__button-two {
+  left: 50px;
+}
+
