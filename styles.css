@@ -133,3 +133,13 @@
   background-color: #9e9495;
 }
 
+.coffee-medium__cup{
+  width: 80px;
+  height: 47px;
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 40px);
+  background-color: #FFF;
+  border-radius: 0 0 70px 70px / 0 0 110px 110px;
+}
+
