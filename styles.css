@@ -27,4 +27,8 @@
 
 .coffee-header__buttons::after{
   content: "";
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  bottom: -8px;
 }
