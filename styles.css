@@ -78,5 +78,8 @@
   width: 90%;
   height: 100px;
   background-color: #776f6e;
-  
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 40%);
+  border-radius: 20px 20px 0 0;
 }
