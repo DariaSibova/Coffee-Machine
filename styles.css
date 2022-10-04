@@ -64,3 +64,11 @@
   box-shadow: -12px 0 0 #9b9091, -24px 0 0 #9b9091;
 }
 
+.coffee-medium{
+  width: 90%;
+  height: 160px;
+  position: absolute;
+  top: 80px;
+  left: calc(50% - 45%);
+  background-color: #bcb0af;
+}
