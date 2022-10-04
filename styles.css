@@ -214,5 +214,40 @@ background-color: #b3aeae;
     opacity: 0;
   }
 
+}
 
+@keyframes smokeTwo {
+  0% {
+    bottom: 40px;
+    opacity: 0;
+  }
+  40% {
+    bottom: 70px;
+    opacity: .5;
+  }
+  80% {
+    bottom: 80px;
+    opacity: .3;
+  }
+  100% {
+    bottom: 80px;
+    opacity: 0;
+  }
+}
+
+.coffee-medium__smoke-one {
+  opacity: 0;
+  bottom: 50px;
+  left: 102px;
+  animation: smokeOne 3s 4s linear infinite;
+}
+.coffee-medium__smoke-two {
+  opacity: 0;
+  bottom: 70px;
+  left: 118px;
+  animation: smokeTwo 3s 5s linear infinite;
+}
+
+.coffee-medium__smoke-three{
+  
 }
