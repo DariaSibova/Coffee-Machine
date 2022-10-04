@@ -72,3 +72,11 @@
   left: calc(50% - 45%);
   background-color: #bcb0af;
 }
+
+.coffee-medium::before{
+  content: "";
+  width: 90%;
+  height: 100px;
+  background-color: #776f6e;
+  
+}
