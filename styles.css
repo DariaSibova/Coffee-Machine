@@ -16,3 +16,15 @@
   border-radius: 10px;
 }
 
+.coffee-header__buttons {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  top: 25px;
+  background-color: #282323;
+  border-radius: 50%;
+}
+
+.coffee-header__buttons::after{
+  content: "";
+}
