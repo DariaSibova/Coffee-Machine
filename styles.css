@@ -249,5 +249,9 @@ background-color: #b3aeae;
 }
 
 .coffee-medium__smoke-three{
-  
+  opacity: 0;
+  bottom: 65px;
+  right: 118px;
+  animation: smokeTwo 3s 6s linear infinite;
 }
+
