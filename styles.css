@@ -54,3 +54,20 @@
   box-sizing: border-box;
 }
 
+.coffee-header__buttons::after {
+  content: "";
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  bottom: -8px;
+  left: calc(50% - 4px);
+  background-color: #615e5e;
+}
+
+.coffee-header__button-one {
+  left: 15px;
+}
+.coffee-header__button-two {
+  left: 50px;
+}
+
