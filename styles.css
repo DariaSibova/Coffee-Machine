@@ -103,3 +103,13 @@
   left: calc(50% - 25px);
   background-color: #231f20;
 }
+
+.coffee-medium__exit::after{
+  content: "";
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  bottom: -30px;
+  left: calc(50% - 5px);
+  
+}
