@@ -262,3 +262,12 @@ background-color: #b3aeae;
   animation: smokeOne 3s 5s linear infinite;
 }
 
+.coffee-footer{
+  width: 95%;
+  height: 15px;
+  position: absolute;
+  bottom: 25px;
+  left: calc(50% - 47.5%);
+  background-color: #41bdad;
+  border-radius: 10px;
+}
