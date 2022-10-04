@@ -122,3 +122,14 @@
   right: 25px;
   background-color: #231f20;
 }
+
+.coffee-medium__arm::before{
+  content: "";
+  width: 15px;
+  height: 5px;
+  position: absolute;
+  top: 7px;
+  left: -15px;
+  background-color: #9e9495;
+}
+
