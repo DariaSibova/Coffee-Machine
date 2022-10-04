@@ -271,3 +271,12 @@ background-color: #b3aeae;
   background-color: #41bdad;
   border-radius: 10px;
 }
+
+.coffee-footer::after{
+  content: "";
+  width: 106%;
+  height: 26px;position: absolute;
+  bottom: -25px;
+  left: -8px;
+  background-color: #000;
+}
