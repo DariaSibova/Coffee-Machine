@@ -255,3 +255,10 @@ background-color: #b3aeae;
   animation: smokeTwo 3s 6s linear infinite;
 }
 
+.coffee-medium__smoke-for{
+  opacity: 0;
+  bottom: 50px;
+  right: 102px;
+  animation: smokeOne 3s 5s linear infinite;
+}
+
