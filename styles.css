@@ -113,3 +113,12 @@
   left: calc(50% - 5px);
   background-color: #231f20;
 }
+
+.coffee-medium__arm {
+  width: 70px;
+  height: 20px;
+  position: absolute;
+  top: 15px;
+  right: 25px;
+  background-color: #231f20;
+}
